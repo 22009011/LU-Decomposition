@@ -50,7 +50,9 @@ print(x))
 ```
 
 ## Output:
-![lu decomposition]()
+![Screenshot 2023-04-17 at 23-03-52 Ex05-CR- LU Decomposition Attempt review](https://user-images.githubusercontent.com/118343461/232569110-44a1adc5-56b9-4da5-b7b9-5da45b19806c.png)
+![Screenshot 2023-04-17 at 23-03-01 Ex05-CR- LU Decomposition Attempt review](https://user-images.githubusercontent.com/118343461/232569157-1eb63d1e-bf29-4c85-9830-7747934f3b3c.png)
+
 
 
 ## Result:
